@@ -1,6 +1,7 @@
 This is a Sample Chef Code which does the following:
 
 On a Amazon EC2 Linux VM:
+
 1) Configure Apache
 
 2) Create a password store
